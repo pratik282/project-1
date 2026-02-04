@@ -1,4 +1,4 @@
 # project-1
-My first project.
-Pratik Tabhane
+My first project.<br>
+Pratik Tabhane<br>
 IT25043
